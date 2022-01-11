@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems and knowing new things
 - 🌱 I’m currently learning computer science engineering and front end development
 
-- 📫 reach me through inked in;gmail-kousikaasrim@gmail.com
+- 📫 reach me through linked in;gmail-kousikaasrim@gmail.com
 
 
 <!---
